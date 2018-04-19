@@ -1,0 +1,14 @@
+{
+  "name": "aws-nodejs-sms",
+  "version": "1.0.0",
+  "description": "Send an SMS using Nodejs and AWS SNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joby Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.224.1"
+  }
+}
